@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    font-family: karla, sans-serif;
+}
+html{
+    scroll-behavior: smooth;
+}
+.contenedor{
+    width: 1200px;
+    background-color: #1c1c1c;
+    margin-left: auto;
+    margin-right: auto;
+}
+header{
+    background-color: black;
+    border-radius: 0 0 10px 10px;
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+.menu{
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+.bmenu{
+    padding-right: 35px;
+}
+a{
+    color: aliceblue;
+    font-family: karla, sans-serif;
+}
+a:hover{
+    opacity: 50%;
+    transition: 0.5s;
+}
+.logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    width: 350px;
+}
+h1{
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 40px;
+    font-family: host grotesk, sans-serif;
+    color: #7243c8;
+    margin-bottom: 10px;
+}
+h3{
+    width: 900px;
+    padding-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+}
+h2{
+    color: #ffffff;
+    font-family: karla, sans-serif;
+    font-size: 20px;
+    margin-top: 50px;
+    margin-left: 145px;
+}
+.galeriamerc{
+    padding-top: 35px;
+    width: 900px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 75px;
+}
+img.imagen{
+    margin-left: auto;
+    margin-right: auto;
+    margin: -2px;
+}
+p{
+    color: #ffffff;
+    margin-left: 145px;
+    margin-bottom: 10px;
+}
+img.mercg{
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+p.descriptivo{
+    text-align: center;
+    width: 800px;
+    font-family: karla, sans-serif;
+    font-size: 15px;
+    padding-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    color: #ffffff;
+}
+h1.nombreJ{
+    text-align: center;
+    width: 900px;
+    color: #cfa900;
+    font-family: karla, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+}
+h1.nombreD{
+    color: #572ca7;
+    font-family: karla, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+}
+h1.nombreC{
+    color: #1a8625;
+    font-family: karla, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px; 
+}
+h1.nombreCe{
+    color: #089cb3;
+    font-family: karla, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px; 
+}
+h1.nombreA{
+    color: #572ca7;
+    font-family: karla, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+}
+h1.nombreF{
+    color: #cf730a;
+    font-family: karla, sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 25px;
+}
+article.sobre{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 150px;
+}
+img.mifoto{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+h2.sobre{
+    font-family: host grotesk, sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: #572ca7;
+    margin-left: auto;
+    margin-right: auto;
+}
+p.sobre{
+    width: 900px;
+    padding-top: 15px;
+    border-bottom: 3px solid #7243c8;
+    padding-bottom: 35px;
+    text-align: center;
+}
+body{
+    background-color: #1c1c1c;
+}
+div.redes{
+    background-color: #000000;
+    width: 75px;
+    height: 245px;
+    position: fixed;
+    top: 150px;
+    margin-left: 40px;
+    border-radius: 10px;
+}
+li{
+list-style: none;
+text-align: center;
+padding: 5px;
+}
